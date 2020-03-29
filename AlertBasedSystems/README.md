@@ -2,10 +2,10 @@
 Location based alert application which notifies Citizens and Government on COVID-19 updates.
 ### Uses cases (Source : https://blog.openmined.org/covid-app-privacy-advice): ###
 1. Planning Trips
-2. Proximity ALerts
-3. Exposure ALerts
+2. Proximity Alerts
+3. Exposure Alerts
 4. Symptom Analysis
-5. Proff of Health
+5. Proof of Health
 6. Fake news Detection
 
 ## Contributing ##
